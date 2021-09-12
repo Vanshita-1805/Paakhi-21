@@ -101,7 +101,7 @@
 }
 .initiative-list{
     list-style-type: none;
-    font-size:145%;
+    font-size:135%;
     margin:3% auto 3% auto;
 }
 .initiative-list dt{
@@ -134,17 +134,15 @@
     width:100px;
     height:3px;
     content:" ";
-    margin: 5% auto 5% auto;
+    margin: 3% auto 5% auto;
     
 }
 
 /** INITIATIVE-SECTION-CAROUSEL **/
 
-.carousel .carousel-inner{
-    height:850px;
-}
+
 .carousel .carousel-item {
-    height:600px;
+    height:auto;
     background-color: #c7bebf;
     border:5px solid #000;
     border-radius: 50px;
