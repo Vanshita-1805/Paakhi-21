@@ -27,7 +27,7 @@
 
 .poster-image{
     width:98%;
-    height:650px;
+    height:auto;
     image-resolution:1080px;
     background-size: cover;
     margin-left:1%;
