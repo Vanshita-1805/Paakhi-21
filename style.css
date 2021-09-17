@@ -21,7 +21,7 @@
 
 /** Poster**/
 .poster{
-    box-shadow: inset 0px 0px 20px #E30B5C;
+    
 }
 
 
@@ -32,6 +32,7 @@
     background-size: cover;
     margin-left:1%;
     margin-bottom: 0px;
+    box-shadow:  0px 0px 50px #000;
     
 }
 /** Heading**/
